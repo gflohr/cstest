@@ -1,3 +1,3 @@
 # CSTEST
 
-Test changesets. Nothing interesting here.
+Test changesets.
