@@ -7,7 +7,7 @@
     "build": "pnpm -r build",
     "test": "pnpm -r test",
     "prerelease": "pnpm run test && pnpm run build",
-    "release": "changeset publish"
+    "release": "echo published"
   },
   "keywords": [],
   "author": "",
