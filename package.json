@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "pnpm -r test",
-    "publish": "echo Published to npm."
+    "release": "echo Published release to npm."
   },
   "keywords": [],
   "author": "",
